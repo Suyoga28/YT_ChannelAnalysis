@@ -13,7 +13,6 @@ This repository showcases a Power BI dashboard designed to analyze the performan
 - 📂 **Category-Level Filtering** – Interact with slicers for dates, video types, etc.
 
 ---
-⭐ *If you like this project, feel free to star the repo and connect!*
 
 ## 📷 Preview
 ### 📄 Report Page 1
@@ -21,6 +20,7 @@ This repository showcases a Power BI dashboard designed to analyze the performan
 ### 📄 Report Page 2
 ![Dashboard Preview](https://github.com/Suyoga28/YT_ChannelAnalysis/blob/main/YT2.jpg)
 ---
+⭐ *If you like this project, feel free to star the repo and connect!*
 
 ## 📁 Files Included
 
