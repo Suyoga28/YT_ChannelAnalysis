@@ -16,9 +16,7 @@ This repository showcases a Power BI dashboard designed to analyze the performan
 
 ## 📷 Preview
 
-![Dashboard Preview](dashboard_preview.png)
-
-> Ensure this image file is placed in the repo (either root or `assets/`) and matches the exact filename above.
+![Dashboard Preview](https://raw.githubusercontent.com/Suyoga28/YT_ChannelAnalysis/main/YT1.jpg)
 
 ---
 
