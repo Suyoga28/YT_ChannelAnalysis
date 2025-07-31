@@ -13,19 +13,23 @@ This repository showcases a Power BI dashboard designed to analyze the performan
 - 📂 **Category-Level Filtering** – Interact with slicers for dates, video types, etc.
 
 ---
+⭐ *If you like this project, feel free to star the repo and connect!*
 
 ## 📷 Preview
-
+### 📄 Report Page 1
 ![Dashboard Preview](https://raw.githubusercontent.com/Suyoga28/YT_ChannelAnalysis/main/YT1.jpg)
-
+### 📄 Report Page 2
+![Dashboard Preview](https://github.com/Suyoga28/YT_ChannelAnalysis/blob/main/YT2.jpg)
 ---
 
 ## 📁 Files Included
 
 | File Name | Description |
 |-----------|-------------|
-| `YouTubeDashboard.pbix` | Power BI dashboard file |
-| `dashboard_preview.png` | Screenshot of the dashboard |
+| `YouTube channel analysis.pbix` | Power BI report page1 |
+| `Chart PQ.pbix` | Power BI report page2 |
+| `YT1.jpg` | Screenshot of the dashboard |
+| `YT2.jpg` | Screenshot of the dashboard |
 | `README.md` | This project documentation file |
 
 ---
@@ -55,5 +59,3 @@ This repository showcases a Power BI dashboard designed to analyze the performan
 🔗 [Medium](https://medium.com/@suyogasgaikwad) |  
 
 ---
-
-⭐ *If you like this project, feel free to star the repo and connect!*
